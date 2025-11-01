@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "225444376351",
+    "project_id": "cvboxapp-4ea74",
+    "storage_bucket": "cvboxapp-4ea74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225444376351:android:99d1535ff0caf304618a2a",
+        "android_client_info": {
+          "package_name": "store.cvbox.cv_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225444376351-95ol86ebvd7re0u1qtp43ac4dtfflntf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "store.cvbox.cv_box",
+            "certificate_hash": "04787d3d1ce6ec7cc0557e56ea4c72ffa4a1b14c"
+          }
+        },
+        {
+          "client_id": "225444376351-cos025ti7uudcan0h6g3noe4b9noe0o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBore4iuMROTmtt1zFEvzLrMPixrxYkQ84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225444376351-cos025ti7uudcan0h6g3noe4b9noe0o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225444376351-s2ge00g4emjt2ufu2innddg9b7r36pvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "store.cvbox.cvBox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
